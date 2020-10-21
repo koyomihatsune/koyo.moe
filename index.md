@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+#  Koyomi's repository
+---
+### Introduction
+**Hi, I'm Koyomi** - studying Computer Science at University of Engineering and Technology, VNU.
+I have experience in UI/UX design, Java, C++, Objective-C, Ren'py, RPG Maker & Hackintosh.
+My Japanese level is equivalent to JLPT N4 (heading to N3 and N2), with the confidence of researching docs in both Japanese and English independently. 
+I'd perpetually admire to improve every aspect of my knowledge.
+This website hosts every public project made by me.
 
-You can use the [editor on GitHub](https://github.com/vakoyomi/koyomidesune.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 私について
+**こんにちは、私はコヨミです**。
+工科大学、ベトナム国家大学ハノイ校で　コンピュータサイエンスを　勉強しています。
+UI / UXデザイン、Java、C++、Objective-C、Ren'py、RPG Maker、Hackintoshの　経験を持つ開発者です。
+日本語レベルはJLPTN4（N3とN2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。
+私は常に自分のスキルと知識を学び、向上させる準備ができています。
+このウェブサイトは、私が開発したすべてのオープンプロジェクトをホストしています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My projects/私のプロジェクト
+#####  [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
+**(co-developed with Trần Xuân Bách)**
+An advanced JavaFX dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate with self-made API, text to speech.
 
-### Markdown
+##### [The Kira Kira Doki Doki Rhythm Game](https://github.com/vakoyomi/KiraDokiProject)
+A SDL-based rhythm game to control with mouse and keyboard.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vakoyomi/koyomidesune.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Doki Doki Literature Club! Vietnamese Translation (discontinued)
+Vietnamese translation for Doki Doki Literature Club! game.
