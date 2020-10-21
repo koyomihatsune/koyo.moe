@@ -28,7 +28,7 @@ UI / UXデザイン、Java、C++、Objective-C、Ren'py、RPG Maker、Hackintosh
 
 
 ### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
-**(co-developed with Trần Xuân Bách)**
+**(co-developed with @miaht94 - Koyomia100)**
 
 An advanced JavaFX dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate with self-made API, text to speech.
 
