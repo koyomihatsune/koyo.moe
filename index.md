@@ -1,5 +1,3 @@
-#  Koyomi's repository
----
 ## Introduction
 
 **Hi, I'm Koyomi** - studying Computer Science at University of Engineering and Technology, VNU.
