@@ -27,15 +27,35 @@ UI / UXデザイン、Java、C++、Objective-C、Ren'py、RPG Maker、Hackintosh
 ## My projects/私のプロジェクト
 
 
+### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman) 
+
+**(co-developed with @miah94 from Koyomia100)**
+
+A strategic, maze-based bomb putting game with bots (unfinished), multiplayer & items.
+
+Used Command and various other design patterns.
+
+**SDK, Libraries & Tools:** Java 15, LibGDX, Tiled, Gradle
+
+___
+
 ### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
-**(co-developed with @miaht94 - Koyomia100)**
 
-An advanced JavaFX dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate with self-made API, text to speech.
+**(co-developed with @miah94 from Koyomia100)**
 
+An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech.
+
+**SDK, Libraries & Tools:** Java 8, JavaFX, SceneBuilder, SQLite, Maven
+
+___
 
 ### [The Kira Kira Doki Doki Rhythm Game](https://github.com/vakoyomi/KiraDokiProject)
+
 A SDL-based rhythm game to control with mouse and keyboard.
 
+**SDK, Libraries & Tools:** C++, SDL2, Visual Studio
+
+___
 
 ### Doki Doki Literature Club! Vietnamese Translation (discontinued)
 Vietnamese translation for Doki Doki Literature Club! game.
