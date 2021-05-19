@@ -26,6 +26,17 @@ UI / UXデザイン、Java、C++、Objective-C、Ren'py、RPG Maker、Hackintosh
 
 ## My projects/私のプロジェクト
 
+### [KoyoTask - A Real-time Based To-do List App](github.com/miaht94/KoyoTask) 
+
+**(Software Engineering Project, Agile Scrum)**
+
+A Real-time Based To-do List App with a 4-member team on Agile Scrum process.
+[Report](https://drive.google.com/file/d/1Mo0LO-_5JtH1PizlhTFsWih8s2Curoim/view?usp=sharing) & [Slide](https://drive.google.com/file/d/1V8FGFhqh96wKkR3oxRpxRtYKxFe4uEUF/view?usp=sharing) attached with Scrum first two sprints.
+
+**Role:** Product Owner, Requirement & User Stories Managing, UX Design, UI Design, Client Backend
+**SDK, Libraries & Tools:** NodeJS, npm, Electron, Firebase
+
+___
 
 ### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman) 
 
