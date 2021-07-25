@@ -2,11 +2,11 @@
 
 **Hi, I'm Koyomi** - studying Computer Science at University of Engineering and Technology, VNU.
 
-I have experience in UI/UX design, Java, C++, Objective-C, Ren'py, RPG Maker & Hackintosh.
+I mainly do UI/UX design, Intermediate Java & C++. I also have experiences in Basic Python, Swift, C# .NET, TypeScript/JavaScript and managing Apache web servers.
 
-My Japanese level is equivalent to JLPT N4 (heading to N3 and N2), with the confidence of researching docs in both Japanese and English independently. 
+My Japanese level is equivalent to JLPT N3 (heading to N2), with the confidence of researching docs in both Japanese and English independently. 
 
-I'd perpetually admire to improve every aspect of my knowledge <3
+I'd perpetually admire to improve every aspect of my knowledge.
 
 This website hosts every public project made by me.
 
@@ -14,11 +14,11 @@ This website hosts every public project made by me.
 ## 私について
 **こんにちは、私はコヨミです**。
 
-工科大学、ベトナム国家大学ハノイ校で　コンピュータサイエンスを　勉強しています。 
+工科大学、ベトナム国家大学ハノイ校で　コンピュータサイエンスを　勉強しています。  
 
-UI / UXデザイン、Java、C++、Objective-C、Ren'py、RPG Maker、Hackintoshの　経験を持つ開発者です。
+UI / UXデザイン、Intermediate Java、C++の　経験を持つ開発者です。また、Basic Python、Swift、C# .NET、TypeScript/JavaScript、およびApacheWebサーバーの管理の経験もあります。
 
-日本語レベルはJLPTN4（N3とN2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。 私は常に自分のスキルと知識を学び、向上させる準備ができています。
+日本語レベルはJLPTN3（N2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。 私は常に自分のスキルと知識を学び、向上させる準備ができています。
 
 このウェブサイトは、私が開発したすべてのオープンプロジェクトをホストしています。
 
