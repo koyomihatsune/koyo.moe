@@ -2,71 +2,88 @@
 
 **Hi, I'm Koyomi** - studying Computer Science at University of Engineering and Technology, VNU.
 
-I mainly do UI/UX design, Intermediate Java & C++. I also have experiences in Basic Python, Swift, C# .NET, TypeScript/JavaScript and managing Apache web servers.
+I mainly do **Software Engineering, web + mobile app development** and **UI/UX design**. 
+I have experiences in Python, Swift, C# & React with JavaScript. I'm also learning AWS and Docker.
 
-My Japanese level is equivalent to JLPT N3 (heading to N2), with the confidence of researching docs in both Japanese and English independently. 
-
-I'd perpetually admire to improve every aspect of my knowledge.
+My Japanese level is equivalent to JLPT N3 (heading to N2), with the confidence of researching docs in both Japanese and English independently. I'd perpetually admire to improve every aspect of my knowledge.
 
 This website hosts every public project made by me.
 
 
 ## 私について
-**こんにちは、私はコヨミです**。
+**こんにちは、こよみと申します**。
 
 工科大学、ベトナム国家大学ハノイ校で　コンピュータサイエンスを　勉強しています。  
 
-UI / UXデザイン、Intermediate Java、C++の　経験を持つ開発者です。また、Basic Python、Swift、C# .NET、TypeScript/JavaScript、およびApacheWebサーバーの管理の経験もあります。
+主にSoftware Engineering、Web+Mobileアプリの開発、UI / UXデザインを行っています。 Python、Swift、C＃、およびReactを中心としたJavaScriptの経験があります。 AWSとDockerも学んでいます。
 
-日本語レベルはJLPTN3（N2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。 私は常に自分のスキルと知識を学び、向上させる準備ができています。
+日本語レベルはJLPTN3（N2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。 常に自分のスキルと知識を学び、向上させる準備ができています。
 
-このウェブサイトは、私が開発したすべてのオープンプロジェクトをホストしています。
+このサイトは、私の開発したすべてのオープンプロジェクトをホストしています。
+
 
 ---
 
-## My projects/私のプロジェクト
+## My projects/プロジェクトズ
+
+### [Student Advisor Web App](github.com/miaht94/Student-Management) 
+
+**(University Course - Web App Development Project)**
+
+A Student Management System for university advisors with real-time chat & feed system, student profile & class/score/semester management.
+
+**Role:** 
+- **Front-end Developer, UI/UX Design**
+Implementing Recoil, React State, React Router and data visualization components with Ant Design UI for front-end development of the system. 
+- **RE, Progress Management**
+Writing system requirements and documents & using Notion for 4-person-based team progress management.
+
+**Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket
+
+---
+### [KoyoAmia](github.com/vakoyomi/KoyoAmia) 
+
+**DISCONTINUED**
+
+A Project Sekai based character interaction & music playing bot written on discord.py. Written exclusively for Project Sekai VN Discord Server.
+
+**Role:** 
+- **System Design, Development, Deployment**
+I personally developed this system, and deployed it using Docker on my own server.
+
+**Technologies:** Discord API, ffmpeg, discord.py, Docker, Ubuntu Server
+
+---
 
 ### [KoyoTask - A Real-time Based To-do List App](github.com/miaht94/KoyoTask) 
 
-**(Software Engineering Project, Agile Scrum)**
+**(University Course - Software Engineering Project, Agile Scrum)**
 
-A Real-time Based To-do List App with a 4-member team on Agile Scrum process.
+A Real-time Based To-do List App with a 4-member-based team on Agile Scrum process.
 [Report](https://drive.google.com/file/d/1Mo0LO-_5JtH1PizlhTFsWih8s2Curoim/view?usp=sharing) & [Slide](https://drive.google.com/file/d/1V8FGFhqh96wKkR3oxRpxRtYKxFe4uEUF/view?usp=sharing) attached with Scrum first two sprints.
 
-**Role:** Product Owner, Requirement & User Stories Managing, UX Design, UI Design, Client Backend
-**SDK, Libraries & Tools:** NodeJS, npm, Electron, Firebase
+**Role:** Requirement & User Stories Managing, UX Design, UI Design, Client Backend
+**Technologies:** NodeJS, npm, Electron, Firebase
+
+
 
 ___
+##Other Small Projects
 
-### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman) 
+##### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman) **(co-developed with @miah94)**
+A Java LibGDX based strategic, maze-based bomb putting game with bots, multiplayer & items.
 
-**(co-developed with @miah94 from Koyomia100)**
+##### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) **(co-developed with @miah94)**
 
-A strategic, maze-based bomb putting game with bots (unfinished), multiplayer & items.
+A JavaFX based English - Vietnamese dictionary with superior features: Auto detect sentences & translate from search box, online Google Translate API and text to speech.
 
-Used Command and various other design patterns.
 
-**SDK, Libraries & Tools:** Java 15, LibGDX, Tiled, Gradle
+##### [The Kira Kira Doki Doki Rhythm Game](https://github.com/vakoyomi/KiraDokiProject)
 
-___
+A SDL rhythm-game with graphics-independent music sync algorithm. 
 
-### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
+---
+##Contacts
 
-**(co-developed with @miah94 from Koyomia100)**
+Email (for work only): vakoyomi@outlook.com
 
-An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech.
-
-**SDK, Libraries & Tools:** Java 8, JavaFX, SceneBuilder, SQLite, Maven
-
-___
-
-### [The Kira Kira Doki Doki Rhythm Game](https://github.com/vakoyomi/KiraDokiProject)
-
-A SDL-based rhythm game to control with mouse and keyboard.
-
-**SDK, Libraries & Tools:** C++, SDL2, Visual Studio
-
-___
-
-### Doki Doki Literature Club! Vietnamese Translation (discontinued)
-Vietnamese translation for Doki Doki Literature Club! game.
