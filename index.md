@@ -10,7 +10,7 @@ This website hosts every public project made by me.
 
 ---
 
-## My projects/プロジェクトズ
+## My projects
 
 ### [Music Streaming Mobile App](http://github.com/miaht94/Apple-Music) 
 
@@ -59,14 +59,14 @@ ___
 
 ## Other Small Projects
 
-### [KoyoTask - A Real-time Based To-do List App](github.com/miaht94/KoyoTask) **(University Course - Software Engineering Project)**
+#### [KoyoTask - A Real-time Based Todo List App](github.com/miaht94/KoyoTask) **(University Course - Software Engineering Project)**
 A Real-time Based To-do List App wth Electron Node.js and Firebase.
 
 
-#### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman) **(co-developed with @miah94)**
+#### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman)
 A Java LibGDX based strategic, maze-based bomb putting game with bots, multiplayer & items.
 
-#### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) **(co-developed with @miah94)**
+#### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
 
 A JavaFX based English - Vietnamese dictionary with superior features: Auto detect sentences & translate from search box, online Google Translate API and text to speech.
 
@@ -78,5 +78,5 @@ A SDL rhythm-game with graphics-independent music sync algorithm.
 ---
 ## Contacts
 
-Email (for work only): vakoyomi@outlook.com
+Email: vakoyomi@outlook.com
 
