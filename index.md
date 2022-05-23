@@ -1,6 +1,8 @@
+# Koyomi's Repository
+
 ## Introduction
 
-**Hi, I'm Viet-Anh Nguyen** - studying Computer Science at University of Engineering and Technology, VNU.
+**Hi, I'm Viet-Anh Nguyen** (aka Koyomi) - studying Computer Science at University of Engineering and Technology, VNU.
 
 I mainly do **Software Engineering and web + mobile app development**. I'm having basic experiences in Python, C++, Java, Flutter with Dart, Swift, React Front-end and AWS.
 
