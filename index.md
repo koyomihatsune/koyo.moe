@@ -10,9 +10,9 @@ This website hosts every public project made by me.
 
 ## My projects/プロジェクトズ
 
-### [Music Streaming Mobile App](github.com/miaht94/Apple-Music) 
+### [Music Streaming Mobile App](http://github.com/miaht94/Apple-Music) 
 
-**(University Course - Mobile Development Project)**
+**(University Course - Mobile Application Development Project)**
 
 An interactive online music streaming app prototype with Apple Music-like flavor.
 
@@ -26,7 +26,7 @@ Deploying back-end of the application on AWS EC2.
 **Technologies:** Flutter, AWS
 
 
-### [Student Advisor Web App](github.com/miaht94/Student-Management) 
+### [Student Advisor Web App](http://github.com/miaht94/Student-Management) 
 
 **(University Course - Web App Development Project)**
 
@@ -46,28 +46,17 @@ Deploying both back-end and [main website](stu.koyomiku39.moe:3000) of the appli
 **Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket, AWS
 
 ---
-### [KoyoAmia](github.com/vakoyomi/KoyoAmia) 
 
-**DISCONTINUED**
-
-A Project Sekai based character interaction & music playing bot written on discord.py. Written exclusively for Project Sekai VN Discord Server.
-
-**Role:** 
-- **System Design, Development, Deployment**
-I personally developed this system, and deployed it using Docker on my own server.
-
-**Technologies:** Discord API, ffmpeg, discord.py, Docker, Ubuntu Server
-
----
 
 ### [KoyoTask - A Real-time Based To-do List App](github.com/miaht94/KoyoTask) 
 
-**(University Course - Software Engineering Project, Agile Scrum)**
+**(University Course - Software Engineering Project)**
 
 A Real-time Based To-do List App with a 4-member-based team on Agile Scrum process.
 [Report](https://drive.google.com/file/d/1Mo0LO-_5JtH1PizlhTFsWih8s2Curoim/view?usp=sharing) & [Slide](https://drive.google.com/file/d/1V8FGFhqh96wKkR3oxRpxRtYKxFe4uEUF/view?usp=sharing) attached with Scrum first two sprints.
 
 **Role:** Requirement & User Stories Managing, UX Design, UI Design, Client Backend
+
 **Technologies:** NodeJS, npm, Electron, Firebase
 
 
