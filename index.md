@@ -1,30 +1,30 @@
 ## Introduction
 
-**Hi, I'm Koyomi** - studying Computer Science at University of Engineering and Technology, VNU.
+**Hi, I'm Viet-Anh Nguyen** - studying Computer Science at University of Engineering and Technology, VNU.
 
-I mainly do **Software Engineering, web + mobile app development** and **UI/UX design**. 
-I have experiences in Python, Swift, C# & React with JavaScript. I'm also learning AWS and Docker.
-
-My Japanese level is equivalent to JLPT N3 (heading to N2), with the confidence of researching docs in both Japanese and English independently. I'd perpetually admire to improve every aspect of my knowledge.
+I mainly do **Software Engineering, web + mobile app development** and **UI/UX design**. I have experiences in Python, Swift, C# & React with JavaScript. I'm also learning AWS and Docker.
 
 This website hosts every public project made by me.
-
-
-## 私について
-**こんにちは、こよみと申します**。
-
-工科大学、ベトナム国家大学ハノイ校で　コンピュータサイエンスを　勉強しています。  
-
-主にSoftware Engineering、Web+Mobileアプリの開発、UI / UXデザインを行っています。 Python、Swift、C＃、およびReactを中心としたJavaScriptの経験があります。 AWSとDockerも学んでいます。
-
-日本語レベルはJLPTN3（N2に向かう）と同等で、日本語と英語の両方の文書を独立して研究する自信があります。 常に自分のスキルと知識を学び、向上させる準備ができています。
-
-このサイトは、私の開発したすべてのオープンプロジェクトをホストしています。
-
 
 ---
 
 ## My projects/プロジェクトズ
+
+### [Music Streaming Mobile App](github.com/miaht94/Apple-Music) 
+
+**(University Course - Mobile Development Project)**
+
+An interactive online music streaming app prototype with Apple Music-like flavor.
+
+**Role:** 
+- **Main Front-end Developer**
+Figma & Flutter UI design making. Doing screens, interactions and standard models for Flutter system interacting with backend on RESTful API.
+
+- **Back-end deployment**
+Deploying back-end of the application on AWS EC2.
+
+**Technologies:** Flutter, AWS
+
 
 ### [Student Advisor Web App](github.com/miaht94/Student-Management) 
 
@@ -33,12 +33,17 @@ This website hosts every public project made by me.
 A Student Management System for university advisors with real-time chat & feed system, student profile & class/score/semester management.
 
 **Role:** 
-- **Front-end Developer, UI/UX Design**
-Implementing Recoil, React State, React Router and data visualization components with Ant Design UI for front-end development of the system. 
+
+- **Main Front-end Developer**
+UI/UX Design, Implementing Recoil, React State, React Router and data visualization components with Ant Design for front-end development of the system. 
+
 - **RE, Progress Management**
 Writing system requirements and documents & using Notion for 4-person-based team progress management.
 
-**Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket
+- **Deployment**
+Deploying both back-end and [main website](stu.koyomiku39.moe:3000) of the application on AWS EC2.
+
+**Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket, AWS
 
 ---
 ### [KoyoAmia](github.com/vakoyomi/KoyoAmia) 
@@ -64,7 +69,6 @@ A Real-time Based To-do List App with a 4-member-based team on Agile Scrum proce
 
 **Role:** Requirement & User Stories Managing, UX Design, UI Design, Client Backend
 **Technologies:** NodeJS, npm, Electron, Firebase
-
 
 
 ___
