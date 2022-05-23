@@ -2,7 +2,7 @@
 
 **Hi, I'm Viet-Anh Nguyen** - studying Computer Science at University of Engineering and Technology, VNU.
 
-I mainly do **Software Engineering, web + mobile app development** and **UI/UX design**. I have experiences in Python, Swift, C# & React with JavaScript. I'm also learning AWS and Docker.
+I mainly do **Software Engineering and web + mobile app development**. I'm having basic experiences in Python, C++, Java, Flutter with Dart, Swift, React Front-end and AWS.
 
 This website hosts every public project made by me.
 
