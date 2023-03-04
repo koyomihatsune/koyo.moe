@@ -2,78 +2,67 @@
 
 ## Introduction
 
-**Hi, I'm Viet-Anh Nguyen** (aka Koyomi) - studying Computer Science at University of Engineering and Technology, VNU.
+**Hi, I am Viet-Anh Nguyen** (aka Koyomi) - studying hard for Bachelor of Computer Science at University of Engineering and Technology, VNU!
 
-I mainly do **Software Engineering and web + mobile app development**. I'm having basic experiences in Python, C++, Java, Flutter with Dart, Swift, React Front-end and AWS.
-
-This website hosts every public project made by me.
+I am specializing in full-stack web development using TypeScript and frameworks like React, Next.js, and Nest.js. I also have experience with Google Cloud and AWS virtualization, web hosting, data crawling using Discord.py and Discord API, Clean Architecture and Domain Driven Design.
 
 ---
 
-## My projects
+## Projects that I'm contributing to
+
+### KoyoAmia
+
+A Discord bot with scheduled automatic data crawling, gacha (random card) game system, interacting through chat commands.
+
+**Role:** Product Owner, Development
+
+**Technologies:** Python, Discord.py, Discord API, ffmpeg, Docker, Google Cloud VM
+
+___
+
+### English Pronunciation Practicing Web App
+
+**(Outsource project)**
+
+A web app ultilizing your microphone for correcting your pronunciation weakness, working on all PC and smartphone browsers. 
+
+I'm responsible for utilizing the audio recording feature on all browsers (especially WebKit Safari) by processing and encoding streaming/batch WAV audio files, UI logic for system features, responsive design, backend with RESTful API and Clean Architecture.
+
+**Role:** Full stack development
+
+**Technologies:** TypeScript, Next.js, React, Nest.js, TypeORM, MediaRecorder
+
+___
+
 
 ### [Music Streaming Mobile App](http://github.com/miaht94/Apple-Music) 
 
-**(University Course - Mobile Application Development Project)**
+**(Student Courses Project)**
 
 An interactive online music streaming app prototype with Apple Music-like flavor.
 
-
 ![app](https://raw.githubusercontent.com/miaht94/AppleMusic/dev/assets/demo_screenshots.png)
 
+I'm responsible for Figma & Flutter UI designing, screens, interactions and standard models for Flutter system interacting with backend on RESTful API, deploying and operating system on AWS EC2 instance.
 
-**Role:** 
-- **Main Front-end Developer**
-Figma & Flutter UI design making. Doing screens, interactions and standard models for Flutter system interacting with backend on RESTful API.
+**Role:** Front-end development, deployment
 
-- **Back-end deployment**
-Deploying back-end of the application on AWS EC2.
-
-**Technologies:** Flutter, AWS
+**Technologies:** Flutter, Amazon Web Service EC2
 
 ___
 
 
 ### [Student Advisor Web App](http://github.com/miaht94/Student-Management) 
 
-**(University Course - Web App Development Project)**
+**(Student Courses Project)**
 
 A Student Management System for university advisors with real-time chat & feed system, student profile & class/score/semester management.
 
-![app](https://raw.githubusercontent.com/miaht94/Student-Management/main/Screenshot/screenshot2.png)
+I'm responsible for UI/UX Designing, implementing components with Ant Design for front-end of the system, deploying and operating on AWS EC2 instance. 
 
-**Role:** 
+**Role:** Product Owner (documents and requirements), Front-end development, deployment
 
-- **Main Front-end Developer**
-UI/UX Design, Implementing Recoil, React State, React Router and data visualization components with Ant Design for front-end development of the system. 
-
-- **RE, Progress Management**
-Writing system requirements and documents & using Notion for 4-person-based team progress management.
-
-- **Deployment**
-Deploying both back-end and [main website](stu.koyomiku39.moe:3000) of the application on AWS EC2.
-
-**Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket, AWS
-
-___
-
-## Other Small Projects
-
-#### [KoyoTask - A Real-time Based Todo List App](github.com/miaht94/KoyoTask) **(University Course - Software Engineering Project)**
-A Real-time Based To-do List App wth Electron Node.js and Firebase.
-
-
-#### [Project Backerman - A Classic Bomberman Game](https://github.com/vakoyomi/ProjectBackerman)
-A Java LibGDX based strategic, maze-based bomb putting game with bots, multiplayer & items.
-
-#### [Koyomia Dictionary](https://github.com/miaht94/Dictionary) 
-
-A JavaFX based English - Vietnamese dictionary with superior features: Auto detect sentences & translate from search box, online Google Translate API and text to speech.
-
-
-#### [The Kira Kira Doki Doki Rhythm Game](https://github.com/vakoyomi/KiraDokiProject)
-
-A SDL rhythm-game with graphics-independent music sync algorithm. 
+**Technologies:** NodeJS with ReactJS (Recoil, Router), Recharts, MongoDB, NextJS, WebSocket, AWS EC2
 
 ---
 ## Contacts
