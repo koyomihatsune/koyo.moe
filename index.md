@@ -10,6 +10,17 @@ I also have experience with Google Cloud and AWS virtualization, web hosting, da
 
 ## Projects that I'm contributing to
 
+### [MarshTravel](https://github.com/MarshTravel/ProjectMarshTravel-BE)
+
+**(Backend architect, development and continuous deployment)**
+
+MarshTravel is a mobile application that supports discovery of attractions and creation of travel schedules for local travellers in Vietnam.
+
+I'm responsible for working on requirements, the Microservice Architecture, NoSQL database, CI/CD pipelines to make it work on GKE.
+
+**Worked with:** TypeScript, Next.js, RabbitMQ, MongoDB, Helm, Google Kubernetes Engine
+
+___
 ### [English Pronunciation Practicing Web App](http://www.koyo.moe)
 
 **(Outsource project - Full stack development)**
