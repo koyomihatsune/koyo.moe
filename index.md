@@ -21,7 +21,7 @@ I'm responsible for working on requirements, the Microservice Architecture, NoSQ
 **Worked with:** TypeScript, Next.js, RabbitMQ, MongoDB, Helm, Google Kubernetes Engine
 
 ___
-### [English Pronunciation Practicing Web App](http://www.koyo.moe)
+### [English Pronunciation Practicing Web App](http://repo.koyo.moe)
 
 **(Outsource project - Full stack development)**
 
@@ -33,7 +33,7 @@ I'm responsible for utilizing the audio recording feature on all browsers (espec
 
 ___
 
-### [KoyoAmia](https://discord.gg/EETnYhph)
+### [KoyoAmia](http://repo.koyo.moe)
 
 **(Full stack development)**
 
